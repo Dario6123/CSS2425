@@ -1,0 +1,1 @@
+(()=>{var e=(new Date).getFullYear();document.getElementById("currentYear").textContent=e})();
